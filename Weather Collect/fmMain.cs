@@ -60,7 +60,6 @@ namespace Weather_Collect
             lblFileDownloading.Text = "Collecting download information...";
             List<chartInfo> lstChartInfo = getDownloadAddresses();
             //create objects and vars
-            WebClient wc = new WebClient();
             int intTotalFiles = lstChartInfo.Count;
             PdfDocument doc = new PdfDocument();
             int intPdfPageNo = 0;
@@ -68,6 +67,8 @@ namespace Weather_Collect
             chartInfo previousChart = new chartInfo();
             for (int i = 0; i < intTotalFiles; i++)
             {
+                WebClient wc = new WebClient();
+                wc.Headers.Add("user-agent", "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1.0.3705;)");
                 //set applicable charts
                 chartInfo currentChart = lstChartInfo[i].setFileParameters(blFileHDSelect);
                 //get file type
