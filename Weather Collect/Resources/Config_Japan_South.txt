@@ -1,0 +1,38 @@
+MSLP","Japan","Current","http://www.jma.go.jp/jp/g3/images/asia/pdf/asas.pdf","0","http://www.jma.go.jp/jp/g3/images/asia/pdf/asas.pdf","0
+Satellite","IR","Disk","http://www.jma.go.jp/en/gms/imgs/6/infrared/0/|||TIME:yyyyMMddhhmm:30|||-00.png","0","","0
+Satellite","Geocolour","Disk","http://rammb.cira.colostate.edu/ramsdis/online/images/himawari-8/full_disk_ahi_true_color/full_disk_ahi_true_color_|||TIME:yyyyMMddhhmmss:30|||.jpg","0","","0
+Satellite","Geocolour","Japan","http://rammb.cira.colostate.edu/ramsdis/online/images/latest_hi_res/himawari-8/japan_ahi_true_color.png","0","","0
+SIGMET","Text","Asia","https://aviationweather.gov/data/iffdp/6450.pdf","0","","0
+SIGMET","Cyclone Warning","World","http://www.metoc.navy.mil/jtwc/products/abpwsair.jpg","0","","0
+Sig Wx","(FL250 - 630)","00Z","http://www.bom.gov.au/difacs/aviation/IDX0538.gif","0","http://www.bom.gov.au/difacs/aviation/IDX0538.pdf","0
+Sig Wx","(FL250 - 630)","06Z","http://www.bom.gov.au/difacs/aviation/IDX0539.gif","0","http://www.bom.gov.au/difacs/aviation/IDX0539.pdf","0
+Sig Wx","(FL250 - 630)","12Z","http://www.bom.gov.au/difacs/aviation/IDX0540.gif","0","http://www.bom.gov.au/difacs/aviation/IDX0540.pdf","0
+Sig Wx","(FL250 - 630)","18Z","http://www.bom.gov.au/difacs/aviation/IDX0541.gif","0","http://www.bom.gov.au/difacs/aviation/IDX0541.pdf","0
+Wind + Temp","FL100","00Z","https://aviationweather.gov/data/iffdp/2787.gif","0","https://aviationweather.gov/data/iffdp/2787.pdf","90
+Wind + Temp","FL100","06Z","https://aviationweather.gov/data/iffdp/2797.gif","0","https://aviationweather.gov/data/iffdp/2797.pdf","90
+Wind + Temp","FL100","12Z","https://aviationweather.gov/data/iffdp/2807.gif","0","https://aviationweather.gov/data/iffdp/2807.pdf","90
+Wind + Temp","FL100","18Z","https://aviationweather.gov/data/iffdp/2817.gif","0","https://aviationweather.gov/data/iffdp/2817.pdf","90
+Wind + Temp","FL180","00Z","https://aviationweather.gov/data/iffdp/2786.gif","0","https://aviationweather.gov/data/iffdp/2786.pdf","90
+Wind + Temp","FL180","06Z","https://aviationweather.gov/data/iffdp/2796.gif","0","https://aviationweather.gov/data/iffdp/2796.pdf","90
+Wind + Temp","FL180","12Z","https://aviationweather.gov/data/iffdp/2806.gif","0","https://aviationweather.gov/data/iffdp/2806.pdf","90
+Wind + Temp","FL180","18Z","https://aviationweather.gov/data/iffdp/2816.gif","0","https://aviationweather.gov/data/iffdp/2816.pdf","90
+Wind + Temp","FL240","00Z","https://aviationweather.gov/data/iffdp/2785.gif","0","https://aviationweather.gov/data/iffdp/2785.pdf","90
+Wind + Temp","FL240","06Z","https://aviationweather.gov/data/iffdp/2795.gif","0","https://aviationweather.gov/data/iffdp/2795.pdf","90
+Wind + Temp","FL240","12Z","https://aviationweather.gov/data/iffdp/2805.gif","0","https://aviationweather.gov/data/iffdp/2805.pdf","90
+Wind + Temp","FL240","18Z","https://aviationweather.gov/data/iffdp/2815.gif","0","https://aviationweather.gov/data/iffdp/2815.pdf","90
+Wind + Temp","FL300","00Z","https://aviationweather.gov/data/iffdp/2784.gif","0","https://aviationweather.gov/data/iffdp/2784.pdf","90
+Wind + Temp","FL300","06Z","https://aviationweather.gov/data/iffdp/2794.gif","0","https://aviationweather.gov/data/iffdp/2794.pdf","90
+Wind + Temp","FL300","12Z","https://aviationweather.gov/data/iffdp/2804.gif","0","https://aviationweather.gov/data/iffdp/2804.pdf","90
+Wind + Temp","FL300","18Z","https://aviationweather.gov/data/iffdp/2814.gif","0","https://aviationweather.gov/data/iffdp/2814.pdf","90
+ONSTA Weather","Japan","Wind","http://passageweather.com/maps/japan/wind/003.png","0","","0
+ONSTA Weather","Japan","Waves","http://passageweather.com/maps/japan/waves/003.png","0","","0
+ONSTA Weather","Japan","Visibility","http://passageweather.com/maps/japan/visibility/003.png","0","","0
+ONSTA Weather","Japan","Rain","http://passageweather.com/maps/japan/rain/003.png","0","","0
+ONSTA Weather","Japan","Clouds","http://passageweather.com/maps/japan/clouds/003.png","0","","0
+ONSTA Weather","Micronesia","Sea Temp","http://passageweather.com/maps/micronesia/sstc.png","0","","0
+ONSTA Weather","Micronesia","Wind","http://passageweather.com/maps/micronesia/wind/003.png","0","","0
+ONSTA Weather","Micronesia","Waves","http://passageweather.com/maps/micronesia/waves/003.png","0","","0
+ONSTA Weather","Micronesia","Visibility","http://passageweather.com/maps/micronesia/visibility/003.png","0","","0
+ONSTA Weather","Micronesia","Rain","http://passageweather.com/maps/micronesia/rain/003.png","0","","0
+ONSTA Weather","Micronesia","Clouds","http://passageweather.com/maps/micronesia/clouds/003.png","0","","0
+ONSTA Weather","Micronesia","Sea Temp","http://passageweather.com/maps/micronesia/sstc.png","0","","0

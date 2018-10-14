@@ -1,0 +1,11 @@
+- Consider renaming files once used in raw folder
+- Create folder for user additions
+- Calculate total download and time remaining
+- Easy system for user to change files
+- Error management, now handles if file doesn't exist, but no notification
+- Cancel download
+- Dropbox or nah..
+- Dynamic inputs |||XPATH:/html...||| for an xpath or |||TIME:yyyyMMddhhmmss:rounding||| for a timestamp |||MULTI:...|||
+
+High Res Sat Pic ~20MB.
+Satellite,Visible,Disk,http://www.goes.noaa.gov/dimg/jma/fd/vis/10.gif,0,http://rammb.cira.colostate.edu/ramsdis/online/images/latest_hi_res/himawari-8/full_disk_ahi_true_color.jpg,0

@@ -1,0 +1,19 @@
+Get file size of a url
+
+HttpWebRequest req = (HttpWebRequest)WebRequest.Create("http://www.bom.gov.au/difacs/aviation/IDX0476.pdf");
+req.Method = "HEAD";
+HttpWebResponse resp = (HttpWebResponse)(req.GetResponse());
+long len = resp.ContentLength;
+
+//convert times
+dtInputDateTime = dtInputDateTime.ToUniversalTime();
+string strDateTimeResult = dtInputDateTime.ToString("ddHHmmKMMMyy").ToUpper();
+return strDateTimeResult;
+
+Public folder path
+
+// This should give you something like C:\Users\Public\Documents
+string documentsPath = Environment.GetFolderPath(Environment.SpecialFolder.CommonDocuments);
+var directory = new DirectoryInfo(documentsPath);
+// Now this should give you something like C:\Users\Public
+string commonPath = directory.Parent.FullName;
