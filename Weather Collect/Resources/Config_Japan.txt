@@ -8,6 +8,7 @@ Satellite","IR","Disk","http://www.jma.go.jp/en/gms/imgs/6/infrared/0/|||TIME:yy
 Satellite","Geocolour","Disk","http://rammb.cira.colostate.edu/ramsdis/online/images/himawari-8/full_disk_ahi_true_color/full_disk_ahi_true_color_|||TIME:yyyyMMddhhmmss:30|||.jpg","0","","0
 Satellite","Geocolour","Japan","http://rammb.cira.colostate.edu/ramsdis/online/images/latest_hi_res/himawari-8/japan_ahi_true_color.png","0","","0
 SIGMET","Text","Asia","https://aviationweather.gov/data/iffdp/6450.pdf","0","","0
+SIGMET","Cyclone Warning","World","http://www.metoc.navy.mil/jtwc/products/abpwsair.jpg","0","","0
 Sig Wx","(FL250 - 630)","00Z","http://www.bom.gov.au/difacs/aviation/IDX0538.gif","0","http://www.bom.gov.au/difacs/aviation/IDX0538.pdf","0
 Sig Wx","(FL250 - 630)","06Z","http://www.bom.gov.au/difacs/aviation/IDX0539.gif","0","http://www.bom.gov.au/difacs/aviation/IDX0539.pdf","0
 Sig Wx","(FL250 - 630)","12Z","http://www.bom.gov.au/difacs/aviation/IDX0540.gif","0","http://www.bom.gov.au/difacs/aviation/IDX0540.pdf","0
@@ -28,6 +29,14 @@ Wind + Temp","FL300","00Z","https://aviationweather.gov/data/iffdp/2784.gif","0"
 Wind + Temp","FL300","06Z","https://aviationweather.gov/data/iffdp/2794.gif","0","https://aviationweather.gov/data/iffdp/2794.pdf","90
 Wind + Temp","FL300","12Z","https://aviationweather.gov/data/iffdp/2804.gif","0","https://aviationweather.gov/data/iffdp/2804.pdf","90
 Wind + Temp","FL300","18Z","https://aviationweather.gov/data/iffdp/2814.gif","0","https://aviationweather.gov/data/iffdp/2814.pdf","90
+Wind + Temp","FL340","00Z","https://aviationweather.gov/data/iffdp/2783.gif","0","https://aviationweather.gov/data/iffdp/2783.pdf","90
+Wind + Temp","FL340","06Z","https://aviationweather.gov/data/iffdp/2793.gif","0","https://aviationweather.gov/data/iffdp/2793.pdf","90
+Wind + Temp","FL340","12Z","https://aviationweather.gov/data/iffdp/2803.gif","0","https://aviationweather.gov/data/iffdp/2803.pdf","90
+Wind + Temp","FL340","18Z","https://aviationweather.gov/data/iffdp/2813.gif","0","https://aviationweather.gov/data/iffdp/2813.pdf","90
+Wind + Temp","FL390","00Z","https://aviationweather.gov/data/iffdp/2782.gif","0","https://aviationweather.gov/data/iffdp/2782.pdf","90
+Wind + Temp","FL390","06Z","https://aviationweather.gov/data/iffdp/2792.gif","0","https://aviationweather.gov/data/iffdp/2792.pdf","90
+Wind + Temp","FL390","12Z","https://aviationweather.gov/data/iffdp/2802.gif","0","https://aviationweather.gov/data/iffdp/2802.pdf","90
+Wind + Temp","FL390","18Z","https://aviationweather.gov/data/iffdp/2812.gif","0","https://aviationweather.gov/data/iffdp/2812.pdf","90
 ONSTA Weather","Japan","Wind","http://passageweather.com/maps/japan/wind/003.png","0","","0
 ONSTA Weather","Japan","Waves","http://passageweather.com/maps/japan/waves/003.png","0","","0
 ONSTA Weather","Japan","Visibility","http://passageweather.com/maps/japan/visibility/003.png","0","","0

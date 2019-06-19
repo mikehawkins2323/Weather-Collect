@@ -51,6 +51,14 @@ Wind + Temp","FL300","00Z","https://aviationweather.gov/data/iffdp/2784.gif","0"
 Wind + Temp","FL300","06Z","https://aviationweather.gov/data/iffdp/2794.gif","0","https://aviationweather.gov/data/iffdp/2794.pdf","90
 Wind + Temp","FL300","12Z","https://aviationweather.gov/data/iffdp/2804.gif","0","https://aviationweather.gov/data/iffdp/2804.pdf","90
 Wind + Temp","FL300","18Z","https://aviationweather.gov/data/iffdp/2814.gif","0","https://aviationweather.gov/data/iffdp/2814.pdf","90
+Wind + Temp","FL340","00Z","https://aviationweather.gov/data/iffdp/2783.gif","0","https://aviationweather.gov/data/iffdp/2783.pdf","90
+Wind + Temp","FL340","06Z","https://aviationweather.gov/data/iffdp/2793.gif","0","https://aviationweather.gov/data/iffdp/2793.pdf","90
+Wind + Temp","FL340","12Z","https://aviationweather.gov/data/iffdp/2803.gif","0","https://aviationweather.gov/data/iffdp/2803.pdf","90
+Wind + Temp","FL340","18Z","https://aviationweather.gov/data/iffdp/2813.gif","0","https://aviationweather.gov/data/iffdp/2813.pdf","90
+Wind + Temp","FL390","00Z","https://aviationweather.gov/data/iffdp/2782.gif","0","https://aviationweather.gov/data/iffdp/2782.pdf","90
+Wind + Temp","FL390","06Z","https://aviationweather.gov/data/iffdp/2792.gif","0","https://aviationweather.gov/data/iffdp/2792.pdf","90
+Wind + Temp","FL390","12Z","https://aviationweather.gov/data/iffdp/2802.gif","0","https://aviationweather.gov/data/iffdp/2802.pdf","90
+Wind + Temp","FL390","18Z","https://aviationweather.gov/data/iffdp/2812.gif","0","https://aviationweather.gov/data/iffdp/2812.pdf","90
 ONSTA Weather","Australia","Wind","http://www.bom.gov.au/charts_data/IDY20301/current/windarrow/10m/IDY20301.windarrow-10m.003.png","0","","0
 ONSTA Weather","Australia","Waves","http://www.bom.gov.au/charts_data/IDY30100/current/sigWaveHgt/IDY30100.sigWaveHgt.003.png","0","","0
 ONSTA Weather","West Cosat","Wind","http://passageweather.com/maps/leeuwin/wind/003.png","0","","0

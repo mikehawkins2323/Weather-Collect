@@ -22,6 +22,7 @@ SIGMET","Text","Australia + New Zealand","https://aviationweather.gov/data/iffdp
 SIGMET","Text","Asia","https://aviationweather.gov/data/iffdp/6450.pdf","0","","0
 SIGMET","Text","Central/East North Pacific","https://aviationweather.gov/data/iffdp/6421.pdf","0","","0
 SIGMET","Text","West South Pacific","https://aviationweather.gov/data/iffdp/6423.pdf","0","","0
+SIGMET","Cyclone Warning","World","http://www.metoc.navy.mil/jtwc/products/abpwsair.jpg","0","","0
 Sig Wx","(FL100 - 250)","00Z","http://www.bom.gov.au/fwo/aviation/IDY02741.png","0","http://www.bom.gov.au/fwo/aviation/IDY02741.pdf","90
 Sig Wx","(FL100 - 250)","06Z","http://www.bom.gov.au/fwo/aviation/IDY02742.png","0","http://www.bom.gov.au/fwo/aviation/IDY02742.pdf","90
 Sig Wx","(FL100 - 250)","12Z","http://www.bom.gov.au/fwo/aviation/IDY02743.png","0","http://www.bom.gov.au/fwo/aviation/IDY02743.pdf","90

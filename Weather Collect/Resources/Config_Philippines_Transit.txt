@@ -18,6 +18,7 @@ SIGMET","VA","#6","http://www.bom.gov.au/fwo/IDD65315.png","0","","0
 SIGMET","VA","#7","http://www.bom.gov.au/fwo/IDD65320.png","0","","0
 SIGMET","Text","Australia + New Zealand","https://aviationweather.gov/data/iffdp/6449.pdf","0","","0
 SIGMET","Text","Asia","https://aviationweather.gov/data/iffdp/6450.pdf","0","","0
+SIGMET","Cyclone Warning","World","http://www.metoc.navy.mil/jtwc/products/abpwsair.jpg","0","","0
 Sig Wx","(FL100 - 250)","00Z","http://www.bom.gov.au/fwo/aviation/IDY02741.png","0","http://www.bom.gov.au/fwo/aviation/IDY02741.pdf","90
 Sig Wx","(FL100 - 250)","06Z","http://www.bom.gov.au/fwo/aviation/IDY02741.png","0","http://www.bom.gov.au/fwo/aviation/IDY02742.pdf","90
 Sig Wx","(FL100 - 250)","12Z","http://www.bom.gov.au/fwo/aviation/IDY02741.png","0","http://www.bom.gov.au/fwo/aviation/IDY02743.pdf","90
@@ -50,6 +51,14 @@ Wind + Temp","FL300","00Z","https://aviationweather.gov/data/iffdp/2784.gif","0"
 Wind + Temp","FL300","06Z","https://aviationweather.gov/data/iffdp/2794.gif","0","https://aviationweather.gov/data/iffdp/2794.pdf","90
 Wind + Temp","FL300","12Z","https://aviationweather.gov/data/iffdp/2804.gif","0","https://aviationweather.gov/data/iffdp/2804.pdf","90
 Wind + Temp","FL300","18Z","https://aviationweather.gov/data/iffdp/2814.gif","0","https://aviationweather.gov/data/iffdp/2814.pdf","90
+Wind + Temp","FL340","00Z","https://aviationweather.gov/data/iffdp/2783.gif","0","https://aviationweather.gov/data/iffdp/2783.pdf","90
+Wind + Temp","FL340","06Z","https://aviationweather.gov/data/iffdp/2793.gif","0","https://aviationweather.gov/data/iffdp/2793.pdf","90
+Wind + Temp","FL340","12Z","https://aviationweather.gov/data/iffdp/2803.gif","0","https://aviationweather.gov/data/iffdp/2803.pdf","90
+Wind + Temp","FL340","18Z","https://aviationweather.gov/data/iffdp/2813.gif","0","https://aviationweather.gov/data/iffdp/2813.pdf","90
+Wind + Temp","FL390","00Z","https://aviationweather.gov/data/iffdp/2782.gif","0","https://aviationweather.gov/data/iffdp/2782.pdf","90
+Wind + Temp","FL390","06Z","https://aviationweather.gov/data/iffdp/2792.gif","0","https://aviationweather.gov/data/iffdp/2792.pdf","90
+Wind + Temp","FL390","12Z","https://aviationweather.gov/data/iffdp/2802.gif","0","https://aviationweather.gov/data/iffdp/2802.pdf","90
+Wind + Temp","FL390","18Z","https://aviationweather.gov/data/iffdp/2812.gif","0","https://aviationweather.gov/data/iffdp/2812.pdf","90
 ONSTA Weather","Australia","Wind","http://passageweather.com/maps/chinasea/waves/000.png","0","","0
 ONSTA Weather","Australia","Waves","http://passageweather.com/maps/chinasea/wind/000.png","0","","0
 ONSTA Weather","chinasea Ocean","Wind","http://passageweather.com/maps/chinasea/wind/003.png","0","","0

@@ -21,6 +21,7 @@ SIGMET","Text","Australia + New Zealand","https://aviationweather.gov/data/iffdp
 SIGMET","Text","Asia","https://aviationweather.gov/data/iffdp/6450.pdf","0","","0
 SIGMET","Text","Central/East North Pacific","https://aviationweather.gov/data/iffdp/6421.pdf","0","","0
 SIGMET","Text","West South Pacific","https://aviationweather.gov/data/iffdp/6423.pdf","0","","0
+SIGMET","Cyclone Warning","World","http://www.metoc.navy.mil/jtwc/products/abpwsair.jpg","0","","0
 Sig Wx","(FL100 - 250)","00Z","http://www.bom.gov.au/fwo/aviation/IDY02741.png","0","http://www.bom.gov.au/fwo/aviation/IDY02741.pdf","90
 Sig Wx","(FL100 - 250)","06Z","http://www.bom.gov.au/fwo/aviation/IDY02742.png","0","http://www.bom.gov.au/fwo/aviation/IDY02742.pdf","90
 Sig Wx","(FL100 - 250)","12Z","http://www.bom.gov.au/fwo/aviation/IDY02743.png","0","http://www.bom.gov.au/fwo/aviation/IDY02743.pdf","90
@@ -53,6 +54,14 @@ Wind + Temp","FL300","00Z","https://aviationweather.gov/data/iffdp/2272.gif","0"
 Wind + Temp","FL300","06Z","https://aviationweather.gov/data/iffdp/2242.gif","0","https://aviationweather.gov/data/iffdp/2242.pdf","90
 Wind + Temp","FL300","12Z","https://aviationweather.gov/data/iffdp/2252.gif","0","https://aviationweather.gov/data/iffdp/2252.pdf","90
 Wind + Temp","FL300","18Z","https://aviationweather.gov/data/iffdp/2262.gif","0","https://aviationweather.gov/data/iffdp/2262.pdf","90
+Wind + Temp","FL340","00Z","https://aviationweather.gov/data/iffdp/2783.gif","0","https://aviationweather.gov/data/iffdp/2783.pdf","90
+Wind + Temp","FL340","06Z","https://aviationweather.gov/data/iffdp/2793.gif","0","https://aviationweather.gov/data/iffdp/2793.pdf","90
+Wind + Temp","FL340","12Z","https://aviationweather.gov/data/iffdp/2803.gif","0","https://aviationweather.gov/data/iffdp/2803.pdf","90
+Wind + Temp","FL340","18Z","https://aviationweather.gov/data/iffdp/2813.gif","0","https://aviationweather.gov/data/iffdp/2813.pdf","90
+Wind + Temp","FL390","00Z","https://aviationweather.gov/data/iffdp/2782.gif","0","https://aviationweather.gov/data/iffdp/2782.pdf","90
+Wind + Temp","FL390","06Z","https://aviationweather.gov/data/iffdp/2792.gif","0","https://aviationweather.gov/data/iffdp/2792.pdf","90
+Wind + Temp","FL390","12Z","https://aviationweather.gov/data/iffdp/2802.gif","0","https://aviationweather.gov/data/iffdp/2802.pdf","90
+Wind + Temp","FL390","18Z","https://aviationweather.gov/data/iffdp/2812.gif","0","https://aviationweather.gov/data/iffdp/2812.pdf","90
 ONSTA Weather","Hawaii","Wind","http://passageweather.com/maps/hawaii/wind/003.png","0","","0
 ONSTA Weather","Hawaii","Waves","http://passageweather.com/maps/hawaii/waves/003.png","0","","0
 ONSTA Weather","Hawaii","Visibility","http://passageweather.com/maps/hawaii/visibility/003.png","0","","0

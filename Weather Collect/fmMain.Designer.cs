@@ -139,6 +139,7 @@
             this.chkMetNOTAMs.TabIndex = 7;
             this.chkMetNOTAMs.Text = "Met + NOTAMs";
             this.chkMetNOTAMs.UseVisualStyleBackColor = true;
+            this.chkMetNOTAMs.Enabled = false;
             // 
             // chkEmail
             // 
@@ -149,6 +150,7 @@
             this.chkEmail.TabIndex = 8;
             this.chkEmail.Text = "Send Email";
             this.chkEmail.UseVisualStyleBackColor = true;
+            this.chkEmail.Enabled = false;
             // 
             // fmMain
             // 
