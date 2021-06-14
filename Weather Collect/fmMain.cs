@@ -14,6 +14,7 @@ using PdfSharp.Pdf.IO;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Net.Http;
 
 namespace Weather_Collect
 {
@@ -68,7 +69,11 @@ namespace Weather_Collect
             for (int i = 0; i < intTotalFiles; i++)
             {
                 WebClient wc = new WebClient();
-                wc.Headers.Add("user-agent", "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1.0.3705;)");
+                //set headers and security
+                wc.Headers.Add("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0");
+                ServicePointManager.Expect100Continue = true;
+                ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
+                //wc.Headers.Add("user-agent", "Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0;  rv:11.0) like Gecko");
                 //set applicable charts
                 chartInfo currentChart = lstChartInfo[i].setFileParameters(blFileHDSelect);
                 //get file type
@@ -81,7 +86,9 @@ namespace Weather_Collect
                 lblFileDownloading.Text = strFileInfo.Remove(intIndexLengthRemove) + "...";
                 //download, if download fails move to next file
                 try { await wc.DownloadFileTaskAsync(currentChart.FileLocation, strFileSaveName + strFileType); }
-                catch { continue; }
+                catch (Exception e) {
+                    continue; }
+
                 //process images to pdf
                 int intPagesAdded = 0;
                 if (strFileType == ".pdf")
@@ -206,6 +213,9 @@ namespace Weather_Collect
                 case "Resolute":
                     fileContent = Weather_Collect.Properties.Resources.Config_Resolute;
                     break;
+                case "West Pacific":
+                    fileContent = Weather_Collect.Properties.Resources.Config_WestPac;
+                    break;
                 case "Philippines":
                     fileContent = Weather_Collect.Properties.Resources.Config_Philippines;
                     break;
@@ -214,9 +224,6 @@ namespace Weather_Collect
                     break;
                 case "East Coast":
                     fileContent = Weather_Collect.Properties.Resources.Config_East_Coast;
-                    break;
-                case "Hawaii Transit":
-                    fileContent = Weather_Collect.Properties.Resources.Config_RIMPAC_Transit;
                     break;
                 case "Hawaii":
                     fileContent = Weather_Collect.Properties.Resources.Config_RIMPAC_Ex;

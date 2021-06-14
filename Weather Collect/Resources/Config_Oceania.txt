@@ -4,8 +4,6 @@ MSLP","Precip","+06","http://www.bom.gov.au/charts_data/IDY20000/current/mslp-pr
 MSLP","Precip","+12","http://www.bom.gov.au/charts_data/IDY20000/current/mslp-precip/IDY20000.mslp-precip.012.png","0","","0
 MSLP","Precip","+18","http://www.bom.gov.au/charts_data/IDY20000/current/mslp-precip/IDY20000.mslp-precip.018.png","0","","0
 MSLP","Precip","+24","http://www.bom.gov.au/charts_data/IDY20000/current/mslp-precip/IDY20000.mslp-precip.024.png","0","","0
-Satellite","IR","Disk","http://www.jma.go.jp/en/gms/imgs/6/infrared/0/|||TIME:yyyyMMddhhmm:10|||-00.png","0","","0
-Satellite","IR","Australia","http://www.jma.go.jp/en/gms/imgs/2/infrared/0/|||TIME:yyyyMMddhhmm:10|||-00.png","0","","0
 Satellite","IR","Samoa","http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/himawari-8_band_13_sector_07.gif","0","","0
 Satellite","Geocolour","Disk","http://rammb.cira.colostate.edu/ramsdis/online/images/himawari-8/full_disk_ahi_true_color/full_disk_ahi_true_color_|||TIME:yyyyMMddhhmmss:30|||.jpg","0","","0
 Satellite","Geocolour","Australia","http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/australia_true_color.jpg","0","","0

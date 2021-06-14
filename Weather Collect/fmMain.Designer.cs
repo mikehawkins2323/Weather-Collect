@@ -120,7 +120,7 @@
             "Oceania",
             "Philippines",
             "Philippines Transit",
-            "Hawaii Transit",
+            "West Pacific",
             "Hawaii",
             "Japan",
             "Japan South"});
@@ -133,24 +133,24 @@
             // 
             this.chkMetNOTAMs.AutoSize = true;
             this.chkMetNOTAMs.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.chkMetNOTAMs.Enabled = false;
             this.chkMetNOTAMs.Location = new System.Drawing.Point(244, 91);
             this.chkMetNOTAMs.Name = "chkMetNOTAMs";
             this.chkMetNOTAMs.Size = new System.Drawing.Size(126, 21);
             this.chkMetNOTAMs.TabIndex = 7;
             this.chkMetNOTAMs.Text = "Met + NOTAMs";
             this.chkMetNOTAMs.UseVisualStyleBackColor = true;
-            this.chkMetNOTAMs.Enabled = false;
             // 
             // chkEmail
             // 
             this.chkEmail.AutoSize = true;
+            this.chkEmail.Enabled = false;
             this.chkEmail.Location = new System.Drawing.Point(12, 91);
             this.chkEmail.Name = "chkEmail";
             this.chkEmail.Size = new System.Drawing.Size(101, 21);
             this.chkEmail.TabIndex = 8;
             this.chkEmail.Text = "Send Email";
             this.chkEmail.UseVisualStyleBackColor = true;
-            this.chkEmail.Enabled = false;
             // 
             // fmMain
             // 

@@ -2,11 +2,11 @@ MSLP","Precip","+03","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-pr
 MSLP","Precip","+09","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.009.png","0","","0
 MSLP","Precip","+15","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.015.png","0","","0
 MSLP","Precip","+21","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.021.png","0","","0
-Satellite","IR","Disk","http://www.jma.go.jp/en/gms/imgs/6/infrared/0/|||TIME:yyyyMMddhhmm:10|||-00.png","0","","0
-Satellite","IR","SE Asia","http://www.jma.go.jp/en/gms/imgs/1/infrared/1/|||TIME:yyyyMMddhhmm:10|||-00.png","0","","0
 Satellite","Geocolour","Disk","http://rammb.cira.colostate.edu/ramsdis/online/images/himawari-8/full_disk_ahi_true_color/full_disk_ahi_true_color_|||TIME:yyyyMMddhhmmss:30|||.jpg","0","","0
+Satellite","IR","SE Asia","http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/indonesia_band_03.gif","0","","0
 SIGMET","Text","Asia","https://aviationweather.gov/data/iffdp/6450.pdf","0","","0
-SIGMET","Cyclone Warning","World","http://www.metoc.navy.mil/jtwc/products/abpwsair.jpg","0","","0
+SIGMET","Cyclone Warning","World +24","https://www.ssd.noaa.gov/PS/TROP/TCFP/data/current/gl_rTCFP_024.gif","0","","0
+SIGMET","Cyclone Warning","World + 48","https://www.ssd.noaa.gov/PS/TROP/TCFP/data/current/gl_rCUMP_048.gif","0","","0
 Sig Wx","(FL250 - 630)","00Z","http://www.bom.gov.au/difacs/aviation/IDX0542.gif","0","http://www.bom.gov.au/difacs/aviation/IDX0542.pdf","0
 Sig Wx","(FL250 - 630)","06Z","http://www.bom.gov.au/difacs/aviation/IDX0543.gif","0","http://www.bom.gov.au/difacs/aviation/IDX0543.pdf","0
 Sig Wx","(FL250 - 630)","12Z","http://www.bom.gov.au/difacs/aviation/IDX0544.gif","0","http://www.bom.gov.au/difacs/aviation/IDX0544.pdf","0

@@ -130,8 +130,8 @@
   <data name="Config_RIMPAC_Ex" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Config_RIMPAC_Ex.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="Config_RIMPAC_Transit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Config_RIMPAC_Transit.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="Config_WestPac" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Config_WestPac.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="DownloadFolder" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\DownloadFolder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

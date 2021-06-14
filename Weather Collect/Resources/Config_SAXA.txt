@@ -4,8 +4,6 @@ MSLP","Precip","+03","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-pr
 MSLP","Precip","+09","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.009.png","0","","0
 MSLP","Precip","+15","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.015.png","0","","0
 MSLP","Precip","+21","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.021.png","0","","0
-Satellite","IR","Disk","http://www.jma.go.jp/en/gms/imgs/6/infrared/0/|||TIME:yyyyMMddhhmm:10|||-00.png","0","","0
-Satellite","IR","Australia","http://www.jma.go.jp/en/gms/imgs/2/infrared/0/|||TIME:yyyyMMddhhmm:10|||-00.png","0","","0
 Satellite","Geocolour","Disk","http://rammb.cira.colostate.edu/ramsdis/online/images/himawari-8/full_disk_ahi_true_color/full_disk_ahi_true_color_|||TIME:yyyyMMddhhmmss:30|||.jpg","0","","0
 Satellite","Geocolour","Australia","http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/australia_true_color.jpg","0","","0
 SIGMET","","(SFC - FL630) Current","http://www.bom.gov.au/fwo/aviation/IDY02749.png","0","http://www.bom.gov.au/fwo/aviation/IDY02749.pdf","0

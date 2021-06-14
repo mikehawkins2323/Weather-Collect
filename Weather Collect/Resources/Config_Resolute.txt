@@ -4,21 +4,14 @@ MSLP","Precip","+03","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-pr
 MSLP","Precip","+09","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.009.png","0","","0
 MSLP","Precip","+15","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.015.png","0","","0
 MSLP","Precip","+21","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.021.png","0","","0
-Satellite","IR","Disk","http://www.jma.go.jp/en/gms/imgs/6/infrared/0/|||TIME:yyyyMMddhhmm:10|||-00.png","0","","0
-Satellite","IR","Australia","http://www.jma.go.jp/en/gms/imgs/2/infrared/0/|||TIME:yyyyMMddhhmm:10|||-00.png","0","","0
 Satellite","Geocolour","Disk","http://rammb.cira.colostate.edu/ramsdis/online/images/himawari-8/full_disk_ahi_true_color/full_disk_ahi_true_color_|||TIME:yyyyMMddhhmmss:30|||.jpg","0","","0
 Satellite","Geocolour","Australia","http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/australia_true_color.jpg","0","","0
 SIGMET","","(SFC - FL630) Current","http://www.bom.gov.au/fwo/aviation/IDY02749.png","0","http://www.bom.gov.au/fwo/aviation/IDY02749.pdf","0
-SIGMET","VA","#1","http://www.bom.gov.au/fwo/IDD65290.png","0","","0
-SIGMET","VA","#2","http://www.bom.gov.au/fwo/IDD65295.png","0","","0
-SIGMET","VA","#3","http://www.bom.gov.au/fwo/IDD65300.png","0","","0
-SIGMET","VA","#4","http://www.bom.gov.au/fwo/IDD65305.png","0","","0
-SIGMET","VA","#5","http://www.bom.gov.au/fwo/IDD65310.png","0","","0
-SIGMET","VA","#6","http://www.bom.gov.au/fwo/IDD65315.png","0","","0
-SIGMET","VA","#7","http://www.bom.gov.au/fwo/IDD65320.png","0","","0
 SIGMET","Text","Australia + New Zealand","https://aviationweather.gov/data/iffdp/6449.pdf","0","","0
 SIGMET","Text","Asia","https://aviationweather.gov/data/iffdp/6450.pdf","0","","0
-SIGMET","Cyclone Warning","World","http://www.metoc.navy.mil/jtwc/products/abpwsair.jpg","0","","0
+SIGMET","Text","Far East","https://aviationweather.gov/data/iffdp/6446.pdf","0","","0
+SIGMET","VA","Darwin","https://aviationweather.gov/data/iffdp/6860.pdf","0","","0
+SIGMET","Cyclone Warning","World","https://www.metoc.navy.mil/jtwc/products/abpwsair.jpg","0","","0
 Sig Wx","(FL100 - 250)","00Z","http://www.bom.gov.au/fwo/aviation/IDY02741.png","0","http://www.bom.gov.au/fwo/aviation/IDY02741.pdf","0
 Sig Wx","(FL100 - 250)","06Z","http://www.bom.gov.au/fwo/aviation/IDY02742.png","0","http://www.bom.gov.au/fwo/aviation/IDY02742.pdf","0
 Sig Wx","(FL100 - 250)","12Z","http://www.bom.gov.au/fwo/aviation/IDY02743.png","0","http://www.bom.gov.au/fwo/aviation/IDY02743.pdf","0
@@ -61,9 +54,9 @@ Wind + Temp","FL390","12Z","https://aviationweather.gov/data/iffdp/2802.gif","0"
 Wind + Temp","FL390","18Z","https://aviationweather.gov/data/iffdp/2812.gif","0","https://aviationweather.gov/data/iffdp/2812.pdf","90
 ONSTA Weather","Australia","Wind","http://www.bom.gov.au/charts_data/IDY20301/current/windarrow/10m/IDY20301.windarrow-10m.003.png","0","","0
 ONSTA Weather","Australia","Waves","http://www.bom.gov.au/charts_data/IDY30100/current/sigWaveHgt/IDY30100.sigWaveHgt.003.png","0","","0
-ONSTA Weather","West Cosat","Wind","http://passageweather.com/maps/leeuwin/wind/003.png","0","","0
-ONSTA Weather","West Coast","Waves","http://passageweather.com/maps/leeuwin/waves/003.png","0","","0
-ONSTA Weather","West Coast","Visibility","http://passageweather.com/maps/leeuwin/visibility/003.png","0","","0
-ONSTA Weather","West Coast","Rain","http://passageweather.com/maps/leeuwin/rain/003.png","0","","0
-ONSTA Weather","West Coast","Clouds","http://passageweather.com/maps/leeuwin/clouds/003.png","0","","0
-ONSTA Weather","West Coast","Sea Temp","http://passageweather.com/maps/leeuwin/sstc.png","0","","0
+ONSTA Weather","Indian Ocean","Wind","http://passageweather.com/maps/indian/wind/006.png","0","","0
+ONSTA Weather","Indian Ocean","Waves","http://passageweather.com/maps/indian/waves/006.png","0","","0
+ONSTA Weather","Indian Ocean","Visibility","http://passageweather.com/maps/indian/visibility/006.png","0","","0
+ONSTA Weather","Indian Ocean","Rain","http://passageweather.com/maps/indian/rain/006.png","0","","0
+ONSTA Weather","Indian Ocean","Clouds","http://passageweather.com/maps/indian/clouds/006.png","0","","0
+ONSTA Weather","Indian Ocean","Sea Temp","http://passageweather.com/maps/indian/sstc.png","0","","0
