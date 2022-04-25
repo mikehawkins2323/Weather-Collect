@@ -23,7 +23,7 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>26</ApplicationRevision>
+    <ApplicationRevision>34</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -149,6 +149,8 @@
     <None Include="Resources\Config_Philippines.txt" />
     <None Include="Resources\Config_Japan.txt" />
     <None Include="Resources\Config_Japan_South.txt" />
+    <None Include="Resources\Config_Test.txt" />
+    <None Include="Resources\Config_NorthEast_Coast.txt" />
     <Content Include="Weather icon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

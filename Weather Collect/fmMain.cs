@@ -70,6 +70,7 @@ namespace Weather_Collect
             {
                 WebClient wc = new WebClient();
                 //set headers and security
+                wc.Headers.Add("Accept: text/html, application/xhtml+xml, */*");
                 wc.Headers.Add("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0");
                 ServicePointManager.Expect100Continue = true;
                 ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
@@ -86,7 +87,7 @@ namespace Weather_Collect
                 lblFileDownloading.Text = strFileInfo.Remove(intIndexLengthRemove) + "...";
                 //download, if download fails move to next file
                 try { await wc.DownloadFileTaskAsync(currentChart.FileLocation, strFileSaveName + strFileType); }
-                catch (Exception e) {
+                catch {
                     continue; }
 
                 //process images to pdf
@@ -157,14 +158,14 @@ namespace Weather_Collect
                     MailMessage mail = new MailMessage();
                     SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
 
-                    mail.From = new MailAddress("4crew10sqn@gmail.com");
-                    mail.To.Add("all92wgefb@gmail.com");
+                    mail.From = new MailAddress("XX@gmail.com");
+                    mail.To.Add("YYb@gmail.com");
                     mail.Subject = "Met & NOTAMs";
                     mail.Body = "See weather charts attached";
                     mail.Attachments.Add(new Attachment(strSaveLocations[2]));
 
                     SmtpServer.Port = 587;
-                    SmtpServer.Credentials = new System.Net.NetworkCredential("4crew10sqn@gmail.com", "ginMONKEYS");
+                    SmtpServer.Credentials = new System.Net.NetworkCredential("XX@gmail.com", "XX");
                     SmtpServer.EnableSsl = true;
 
                     SmtpServer.Send(mail);
@@ -245,6 +246,12 @@ namespace Weather_Collect
                     break;
                 case "West Coast":
                     fileContent = Weather_Collect.Properties.Resources.Config_West_Coast;
+                    break;
+                case "NE Coast":
+                    fileContent = Weather_Collect.Properties.Resources.Config_NorthEast_Coast;
+                    break;
+                case "Test":
+                    fileContent = Weather_Collect.Properties.Resources.Config_Test;
                     break;
                 default:
                     fileContent = Weather_Collect.Properties.Resources.Config_Resolute;

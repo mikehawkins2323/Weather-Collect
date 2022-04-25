@@ -7,13 +7,6 @@ MSLP","Precip","+21","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-pr
 Satellite","Geocolour","Disk","http://rammb.cira.colostate.edu/ramsdis/online/images/himawari-8/full_disk_ahi_true_color/full_disk_ahi_true_color_|||TIME:yyyyMMddhhmmss:30|||.jpg","0","","0
 Satellite","Geocolour","Australia","http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/australia_true_color.jpg","0","","0
 SIGMET","","(SFC - FL630) Current","http://www.bom.gov.au/fwo/aviation/IDY02749.png","0","http://www.bom.gov.au/fwo/aviation/IDY02749.pdf","0
-SIGMET","VA","#1","http://www.bom.gov.au/fwo/IDD65290.png","0","","0
-SIGMET","VA","#2","http://www.bom.gov.au/fwo/IDD65295.png","0","","0
-SIGMET","VA","#3","http://www.bom.gov.au/fwo/IDD65300.png","0","","0
-SIGMET","VA","#4","http://www.bom.gov.au/fwo/IDD65305.png","0","","0
-SIGMET","VA","#5","http://www.bom.gov.au/fwo/IDD65310.png","0","","0
-SIGMET","VA","#6","http://www.bom.gov.au/fwo/IDD65315.png","0","","0
-SIGMET","VA","#7","http://www.bom.gov.au/fwo/IDD65320.png","0","","0
 SIGMET","Text","Australia + New Zealand","https://aviationweather.gov/data/iffdp/6449.pdf","0","","0
 Sig Wx","(FL100 - 250)","00Z","http://www.bom.gov.au/fwo/aviation/IDY02741.png","0","http://www.bom.gov.au/fwo/aviation/IDY02741.pdf","0
 Sig Wx","(FL100 - 250)","06Z","http://www.bom.gov.au/fwo/aviation/IDY02742.png","0","http://www.bom.gov.au/fwo/aviation/IDY02742.pdf","0
@@ -31,9 +24,9 @@ Grid Point Forecasts","(FL180 - 450)","00Z","http://www.bom.gov.au/difacs/aviati
 Grid Point Forecasts","(FL180 - 450)","06Z","http://www.bom.gov.au/difacs/aviation/IDX0477.png","0","http://www.bom.gov.au/difacs/aviation/IDX0477.pdf","0
 Grid Point Forecasts","(FL180 - 450)","12Z","http://www.bom.gov.au/difacs/aviation/IDX0478.png","0","http://www.bom.gov.au/difacs/aviation/IDX0478.pdf","0
 Grid Point Forecasts","(FL180 - 450)","18Z","http://www.bom.gov.au/difacs/aviation/IDX0479.png","0","http://www.bom.gov.au/difacs/aviation/IDX0479.pdf","0
-ONSTA Weather","Indian Ocean","Wind","http://passageweather.com/maps/hobart/wind/003.png","0","","0
-ONSTA Weather","Indian Ocean","Waves","http://passageweather.com/maps/hobart/waves/003.png","0","","0
-ONSTA Weather","Indian Ocean","Visibility","http://passageweather.com/maps/hobart/visibility/003.png","0","","0
-ONSTA Weather","Indian Ocean","Rain","http://passageweather.com/maps/hobart/rain/003.png","0","","0
-ONSTA Weather","Indian Ocean","Clouds","http://passageweather.com/maps/hobart/clouds/003.png","0","","0
-ONSTA Weather","Indian Ocean","Sea Temp","http://passageweather.com/maps/hobart/sstc.png","0","","0
+ONSTA Weather","Hobart","Wind","http://passageweather.com/maps/hobart/wind/003.png","0","","0
+ONSTA Weather","Hobart","Waves","http://passageweather.com/maps/hobart/waves/003.png","0","","0
+ONSTA Weather","Hobart","Visibility","http://passageweather.com/maps/hobart/visibility/003.png","0","","0
+ONSTA Weather","Hobart","Rain","http://passageweather.com/maps/hobart/rain/003.png","0","","0
+ONSTA Weather","Hobart","Clouds","http://passageweather.com/maps/hobart/clouds/003.png","0","","0
+ONSTA Weather","Hobart","Sea Temp","http://passageweather.com/maps/hobart/sstc.png","0","","0

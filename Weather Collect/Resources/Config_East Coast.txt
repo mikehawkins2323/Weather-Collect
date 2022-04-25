@@ -8,32 +8,25 @@ MSLP","Precip","+27","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-pr
 MSLP","Precip","+33","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.033.png","0","","0
 Satellite","Geocolour","Disk","http://rammb.cira.colostate.edu/ramsdis/online/images/himawari-8/full_disk_ahi_true_color/full_disk_ahi_true_color_|||TIME:yyyyMMddhhmmss:30|||.jpg","0","","0
 Satellite","Geocolour","Australia","http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/australia_true_color.jpg","0","","0
-SIGMET","","(SFC - FL630) Current","http://www.bom.gov.au/fwo/aviation/IDY02749.png","0","http://www.bom.gov.au/fwo/aviation/IDY02749.pdf","90
-SIGMET","VA","#1","http://www.bom.gov.au/fwo/IDD65290.png","0","","0
-SIGMET","VA","#2","http://www.bom.gov.au/fwo/IDD65295.png","0","","0
-SIGMET","VA","#3","http://www.bom.gov.au/fwo/IDD65300.png","0","","0
-SIGMET","VA","#4","http://www.bom.gov.au/fwo/IDD65305.png","0","","0
-SIGMET","VA","#5","http://www.bom.gov.au/fwo/IDD65310.png","0","","0
-SIGMET","VA","#6","http://www.bom.gov.au/fwo/IDD65315.png","0","","0
-SIGMET","VA","#7","http://www.bom.gov.au/fwo/IDD65320.png","0","","0
-SIGMET","Text","Australia + New Zealand","https://aviationweather.gov/data/iffdp/6449.pdf","0","","0
-SIGMET","Text","Asia","https://aviationweather.gov/data/iffdp/6450.pdf","0","","0
-Sig Wx","(FL100 - 250)","00Z","http://www.bom.gov.au/fwo/aviation/IDY02741.png","0","http://www.bom.gov.au/fwo/aviation/IDY02741.pdf","90
-Sig Wx","(FL100 - 250)","06Z","http://www.bom.gov.au/fwo/aviation/IDY02742.png","0","http://www.bom.gov.au/fwo/aviation/IDY02742.pdf","90
-Sig Wx","(FL100 - 250)","12Z","http://www.bom.gov.au/fwo/aviation/IDY02743.png","0","http://www.bom.gov.au/fwo/aviation/IDY02743.pdf","90
-Sig Wx","(FL100 - 250)","18Z","http://www.bom.gov.au/fwo/aviation/IDY02744.png","0","http://www.bom.gov.au/fwo/aviation/IDY02744.pdf","90
+Satellite","IR","Area E","https://aviationweather.gov/data/obs/sat/intl/sat_irbw_e.jpg","0","","0
+Satellite","IR","Area E","https://aviationweather.gov/data/obs/sat/intl/sat_irnws_e.jpg","0","","0
+SIGMET","","(SFC - FL630) Current","http://www.bom.gov.au/fwo/aviation/IDY02749.png","0","http://www.bom.gov.au/fwo/aviation/IDY02749.pdf","0
+Sig Wx","(FL100 - 250)","00Z","http://www.bom.gov.au/fwo/aviation/IDY02741.png","0","http://www.bom.gov.au/fwo/aviation/IDY02741.pdf","0
+Sig Wx","(FL100 - 250)","06Z","http://www.bom.gov.au/fwo/aviation/IDY02742.png","0","http://www.bom.gov.au/fwo/aviation/IDY02742.pdf","0
+Sig Wx","(FL100 - 250)","12Z","http://www.bom.gov.au/fwo/aviation/IDY02743.png","0","http://www.bom.gov.au/fwo/aviation/IDY02743.pdf","0
+Sig Wx","(FL100 - 250)","18Z","http://www.bom.gov.au/fwo/aviation/IDY02744.png","0","http://www.bom.gov.au/fwo/aviation/IDY02744.pdf","0
 Sig Wx","(FL250 - 630)","00Z","http://www.bom.gov.au/difacs/aviation/IDX0542.gif","0","http://www.bom.gov.au/difacs/aviation/IDX0542.pdf","0
 Sig Wx","(FL250 - 630)","06Z","http://www.bom.gov.au/difacs/aviation/IDX0543.gif","0","http://www.bom.gov.au/difacs/aviation/IDX0543.pdf","0
 Sig Wx","(FL250 - 630)","12Z","http://www.bom.gov.au/difacs/aviation/IDX0544.gif","0","http://www.bom.gov.au/difacs/aviation/IDX0544.pdf","0
 Sig Wx","(FL250 - 630)","18Z","http://www.bom.gov.au/difacs/aviation/IDX0545.gif","0","http://www.bom.gov.au/difacs/aviation/IDX0545.pdf","0
-Grid Point Forecasts","(FL050- 240)","00Z","http://www.bom.gov.au/difacs/aviation/IDX0127.png","0","http://www.bom.gov.au/difacs/aviation/IDX0127.pdf","90
-Grid Point Forecasts","(FL050- 240)","06Z","http://www.bom.gov.au/difacs/aviation/IDX0128.png","0","http://www.bom.gov.au/difacs/aviation/IDX0128.pdf","90
-Grid Point Forecasts","(FL050- 240)","12Z","http://www.bom.gov.au/difacs/aviation/IDX0129.png","0","http://www.bom.gov.au/difacs/aviation/IDX0129.pdf","90
-Grid Point Forecasts","(FL050- 240)","18Z","http://www.bom.gov.au/difacs/aviation/IDX0130.png","0","http://www.bom.gov.au/difacs/aviation/IDX0130.pdf","90
-Grid Point Forecasts","(FL180 - 450)","00Z","http://www.bom.gov.au/difacs/aviation/IDX0476.png","0","http://www.bom.gov.au/difacs/aviation/IDX0476.pdf","90
-Grid Point Forecasts","(FL180 - 450)","06Z","http://www.bom.gov.au/difacs/aviation/IDX0477.png","0","http://www.bom.gov.au/difacs/aviation/IDX0477.pdf","90
-Grid Point Forecasts","(FL180 - 450)","12Z","http://www.bom.gov.au/difacs/aviation/IDX0478.png","0","http://www.bom.gov.au/difacs/aviation/IDX0478.pdf","90
-Grid Point Forecasts","(FL180 - 450)","18Z","http://www.bom.gov.au/difacs/aviation/IDX0479.png","0","http://www.bom.gov.au/difacs/aviation/IDX0479.pdf","90
+Grid Point Forecasts","(FL050- 240)","00Z","http://www.bom.gov.au/difacs/aviation/IDX0127.png","0","http://www.bom.gov.au/difacs/aviation/IDX0127.pdf","0
+Grid Point Forecasts","(FL050- 240)","06Z","http://www.bom.gov.au/difacs/aviation/IDX0128.png","0","http://www.bom.gov.au/difacs/aviation/IDX0128.pdf","0
+Grid Point Forecasts","(FL050- 240)","12Z","http://www.bom.gov.au/difacs/aviation/IDX0129.png","0","http://www.bom.gov.au/difacs/aviation/IDX0129.pdf","0
+Grid Point Forecasts","(FL050- 240)","18Z","http://www.bom.gov.au/difacs/aviation/IDX0130.png","0","http://www.bom.gov.au/difacs/aviation/IDX0130.pdf","0
+Grid Point Forecasts","(FL180 - 450)","00Z","http://www.bom.gov.au/difacs/aviation/IDX0476.png","0","http://www.bom.gov.au/difacs/aviation/IDX0476.pdf","0
+Grid Point Forecasts","(FL180 - 450)","06Z","http://www.bom.gov.au/difacs/aviation/IDX0477.png","0","http://www.bom.gov.au/difacs/aviation/IDX0477.pdf","0
+Grid Point Forecasts","(FL180 - 450)","12Z","http://www.bom.gov.au/difacs/aviation/IDX0478.png","0","http://www.bom.gov.au/difacs/aviation/IDX0478.pdf","0
+Grid Point Forecasts","(FL180 - 450)","18Z","http://www.bom.gov.au/difacs/aviation/IDX0479.png","0","http://www.bom.gov.au/difacs/aviation/IDX0479.pdf","0
 Wind + Temp","FL100","00Z","https://aviationweather.gov/data/iffdp/2787.gif","0","https://aviationweather.gov/data/iffdp/2787.pdf","90
 Wind + Temp","FL100","06Z","https://aviationweather.gov/data/iffdp/2797.gif","0","https://aviationweather.gov/data/iffdp/2797.pdf","90
 Wind + Temp","FL100","12Z","https://aviationweather.gov/data/iffdp/2807.gif","0","https://aviationweather.gov/data/iffdp/2807.pdf","90
