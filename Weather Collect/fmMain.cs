@@ -229,6 +229,9 @@ namespace Weather_Collect
                 case "Hawaii":
                     fileContent = Weather_Collect.Properties.Resources.Config_RIMPAC_Ex;
                     break;
+                case "Hawaii Transit":
+                    fileContent = Weather_Collect.Properties.Resources.Config_Hawaii_Transit;
+                    break;
                 case "SAXA":
                     fileContent = Weather_Collect.Properties.Resources.Config_SAXA;
                     break;

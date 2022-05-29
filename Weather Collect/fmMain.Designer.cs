@@ -44,9 +44,10 @@
             // 
             this.btnDownload.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnDownload.Location = new System.Drawing.Point(250, 145);
+            this.btnDownload.Location = new System.Drawing.Point(188, 118);
+            this.btnDownload.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnDownload.Name = "btnDownload";
-            this.btnDownload.Size = new System.Drawing.Size(120, 23);
+            this.btnDownload.Size = new System.Drawing.Size(90, 19);
             this.btnDownload.TabIndex = 0;
             this.btnDownload.Text = "DOWNLOAD";
             this.btnDownload.UseVisualStyleBackColor = true;
@@ -58,9 +59,10 @@
             this.chkHighDef.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.chkHighDef.Checked = true;
             this.chkHighDef.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.chkHighDef.Location = new System.Drawing.Point(285, 118);
+            this.chkHighDef.Location = new System.Drawing.Point(214, 96);
+            this.chkHighDef.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.chkHighDef.Name = "chkHighDef";
-            this.chkHighDef.Size = new System.Drawing.Size(85, 21);
+            this.chkHighDef.Size = new System.Drawing.Size(68, 17);
             this.chkHighDef.TabIndex = 1;
             this.chkHighDef.Text = "High Def";
             this.chkHighDef.UseVisualStyleBackColor = true;
@@ -69,9 +71,10 @@
             // 
             this.pgrDownloadPerc.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.pgrDownloadPerc.Location = new System.Drawing.Point(12, 145);
+            this.pgrDownloadPerc.Location = new System.Drawing.Point(9, 118);
+            this.pgrDownloadPerc.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pgrDownloadPerc.Name = "pgrDownloadPerc";
-            this.pgrDownloadPerc.Size = new System.Drawing.Size(232, 23);
+            this.pgrDownloadPerc.Size = new System.Drawing.Size(174, 19);
             this.pgrDownloadPerc.Step = 1;
             this.pgrDownloadPerc.TabIndex = 2;
             // 
@@ -79,9 +82,10 @@
             // 
             this.btnSaveLocationSel.BackgroundImage = global::Weather_Collect.Properties.Resources.DownloadFolder;
             this.btnSaveLocationSel.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnSaveLocationSel.Location = new System.Drawing.Point(337, 12);
+            this.btnSaveLocationSel.Location = new System.Drawing.Point(253, 10);
+            this.btnSaveLocationSel.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnSaveLocationSel.Name = "btnSaveLocationSel";
-            this.btnSaveLocationSel.Size = new System.Drawing.Size(34, 34);
+            this.btnSaveLocationSel.Size = new System.Drawing.Size(26, 28);
             this.btnSaveLocationSel.TabIndex = 3;
             this.btnSaveLocationSel.UseVisualStyleBackColor = true;
             this.btnSaveLocationSel.Click += new System.EventHandler(this.btnSaveLocationSel_Click);
@@ -90,9 +94,10 @@
             // 
             this.txtSaveLocation.Enabled = false;
             this.txtSaveLocation.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtSaveLocation.Location = new System.Drawing.Point(12, 13);
+            this.txtSaveLocation.Location = new System.Drawing.Point(9, 11);
+            this.txtSaveLocation.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtSaveLocation.Name = "txtSaveLocation";
-            this.txtSaveLocation.Size = new System.Drawing.Size(319, 30);
+            this.txtSaveLocation.Size = new System.Drawing.Size(240, 26);
             this.txtSaveLocation.TabIndex = 4;
             this.txtSaveLocation.Text = "Default Save Location";
             // 
@@ -101,9 +106,10 @@
             this.lblFileDownloading.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.lblFileDownloading.AutoSize = true;
-            this.lblFileDownloading.Location = new System.Drawing.Point(12, 118);
+            this.lblFileDownloading.Location = new System.Drawing.Point(9, 96);
+            this.lblFileDownloading.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblFileDownloading.Name = "lblFileDownloading";
-            this.lblFileDownloading.Size = new System.Drawing.Size(122, 17);
+            this.lblFileDownloading.Size = new System.Drawing.Size(96, 13);
             this.lblFileDownloading.TabIndex = 5;
             this.lblFileDownloading.Text = "Download Inactive";
             // 
@@ -116,18 +122,12 @@
             "Resolute",
             "Gateway",
             "East Coast",
-            "West Coast",
-            "NE Coast",
-            "Oceania",
-            "Philippines",
-            "Philippines Transit",
-            "West Pacific",
             "Hawaii",
-            "Japan",
-            "Japan South"});
-            this.cmbArea.Location = new System.Drawing.Point(12, 49);
+            "Hawaii Transit"});
+            this.cmbArea.Location = new System.Drawing.Point(9, 40);
+            this.cmbArea.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.cmbArea.Name = "cmbArea";
-            this.cmbArea.Size = new System.Drawing.Size(319, 33);
+            this.cmbArea.Size = new System.Drawing.Size(240, 28);
             this.cmbArea.TabIndex = 6;
             // 
             // chkMetNOTAMs
@@ -135,9 +135,10 @@
             this.chkMetNOTAMs.AutoSize = true;
             this.chkMetNOTAMs.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.chkMetNOTAMs.Enabled = false;
-            this.chkMetNOTAMs.Location = new System.Drawing.Point(244, 91);
+            this.chkMetNOTAMs.Location = new System.Drawing.Point(183, 74);
+            this.chkMetNOTAMs.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.chkMetNOTAMs.Name = "chkMetNOTAMs";
-            this.chkMetNOTAMs.Size = new System.Drawing.Size(126, 21);
+            this.chkMetNOTAMs.Size = new System.Drawing.Size(100, 17);
             this.chkMetNOTAMs.TabIndex = 7;
             this.chkMetNOTAMs.Text = "Met + NOTAMs";
             this.chkMetNOTAMs.UseVisualStyleBackColor = true;
@@ -146,18 +147,19 @@
             // 
             this.chkEmail.AutoSize = true;
             this.chkEmail.Enabled = false;
-            this.chkEmail.Location = new System.Drawing.Point(12, 91);
+            this.chkEmail.Location = new System.Drawing.Point(9, 74);
+            this.chkEmail.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.chkEmail.Name = "chkEmail";
-            this.chkEmail.Size = new System.Drawing.Size(101, 21);
+            this.chkEmail.Size = new System.Drawing.Size(79, 17);
             this.chkEmail.TabIndex = 8;
             this.chkEmail.Text = "Send Email";
             this.chkEmail.UseVisualStyleBackColor = true;
             // 
             // fmMain
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(382, 180);
+            this.ClientSize = new System.Drawing.Size(286, 146);
             this.Controls.Add(this.chkEmail);
             this.Controls.Add(this.chkMetNOTAMs);
             this.Controls.Add(this.cmbArea);
@@ -169,6 +171,7 @@
             this.Controls.Add(this.btnDownload);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.MaximizeBox = false;
             this.Name = "fmMain";
             this.Text = "Weather Collect";

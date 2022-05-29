@@ -164,6 +164,7 @@
     <None Include="Resources\Config_Japan_South.txt" />
     <None Include="Resources\Config_Test.txt" />
     <None Include="Resources\Config_NorthEast_Coast.txt" />
+    <Content Include="Resources\Config_Hawaii_Transit.txt" />
     <Content Include="Weather icon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
