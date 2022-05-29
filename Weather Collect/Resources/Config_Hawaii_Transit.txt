@@ -3,7 +3,8 @@ MSLP","","Forecast","http://www.bom.gov.au/fwo/IDG00074.gif","0","http://www.bom
 MSLP","Precip","+03","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.003.png","0","","0
 MSLP","Precip","+09","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.009.png","0","","0
 MSLP","Precip","+15","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.015.png","0","","0
-MSLP","Precip","+21","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.021.png","0","","0MSLP","Pacific","+00","https://ocean.weather.gov/P_sfc_full_ocean_color.png","0","","0
+MSLP","Precip","+21","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.021.png","0","","0
+MSLP","Pacific","+00","https://ocean.weather.gov/P_sfc_full_ocean_color.png","0","","0
 MSLP","Pacific","+48","https://ocean.weather.gov/shtml/P_48hrsfc.gif","0","","0
 MSLP","Precip","+06","http://www.bom.gov.au/charts_data/IDY20000/current/mslp-precip/IDY20000.mslp-precip.006.png","0","","0
 MSLP","Precip","+12","http://www.bom.gov.au/charts_data/IDY20000/current/mslp-precip/IDY20000.mslp-precip.012.png","0","","0
@@ -45,14 +46,14 @@ Wind + Temp","FL300","00Z","https://aviationweather.gov/data/iffdp/2272.gif","0"
 Wind + Temp","FL300","06Z","https://aviationweather.gov/data/iffdp/2242.gif","0","https://aviationweather.gov/data/iffdp/2242.pdf","90
 Wind + Temp","FL300","12Z","https://aviationweather.gov/data/iffdp/2252.gif","0","https://aviationweather.gov/data/iffdp/2252.pdf","90
 Wind + Temp","FL300","18Z","https://aviationweather.gov/data/iffdp/2262.gif","0","https://aviationweather.gov/data/iffdp/2262.pdf","90
-Wind + Temp","FL340","00Z","https://aviationweather.gov/data/iffdp/2271.gif","0","https://aviationweather.gov/data/iffdp/2771.pdf","90
-Wind + Temp","FL340","06Z","https://aviationweather.gov/data/iffdp/2241.gif","0","https://aviationweather.gov/data/iffdp/2741.pdf","90
-Wind + Temp","FL340","12Z","https://aviationweather.gov/data/iffdp/2251.gif","0","https://aviationweather.gov/data/iffdp/2851.pdf","90
-Wind + Temp","FL340","18Z","https://aviationweather.gov/data/iffdp/2261.gif","0","https://aviationweather.gov/data/iffdp/2861.pdf","90
-Wind + Temp","FL390","00Z","https://aviationweather.gov/data/iffdp/2270.gif","0","https://aviationweather.gov/data/iffdp/2770.pdf","90
-Wind + Temp","FL390","06Z","https://aviationweather.gov/data/iffdp/2240.gif","0","https://aviationweather.gov/data/iffdp/2740.pdf","90
-Wind + Temp","FL390","12Z","https://aviationweather.gov/data/iffdp/2250.gif","0","https://aviationweather.gov/data/iffdp/2850.pdf","90
-Wind + Temp","FL390","18Z","https://aviationweather.gov/data/iffdp/2260.gif","0","https://aviationweather.gov/data/iffdp/2860.pdf","90
+Wind + Temp","FL340","00Z","https://aviationweather.gov/data/iffdp/2271.gif","0","https://aviationweather.gov/data/iffdp/2271.pdf","90
+Wind + Temp","FL340","06Z","https://aviationweather.gov/data/iffdp/2241.gif","0","https://aviationweather.gov/data/iffdp/2241.pdf","90
+Wind + Temp","FL340","12Z","https://aviationweather.gov/data/iffdp/2251.gif","0","https://aviationweather.gov/data/iffdp/2251.pdf","90
+Wind + Temp","FL340","18Z","https://aviationweather.gov/data/iffdp/2261.gif","0","https://aviationweather.gov/data/iffdp/2261.pdf","90
+Wind + Temp","FL390","00Z","https://aviationweather.gov/data/iffdp/2270.gif","0","https://aviationweather.gov/data/iffdp/2270.pdf","90
+Wind + Temp","FL390","06Z","https://aviationweather.gov/data/iffdp/2240.gif","0","https://aviationweather.gov/data/iffdp/2240.pdf","90
+Wind + Temp","FL390","12Z","https://aviationweather.gov/data/iffdp/2250.gif","0","https://aviationweather.gov/data/iffdp/2250.pdf","90
+Wind + Temp","FL390","18Z","https://aviationweather.gov/data/iffdp/2260.gif","0","https://aviationweather.gov/data/iffdp/2260.pdf","90
 ONSTA Weather","Oceania","Wind","http://passageweather.com/maps/oceania/wind/003.png","0","","0
 ONSTA Weather","Oceania","Waves","http://passageweather.com/maps/oceania/waves/003.png","0","","0
 ONSTA Weather","Oceania","Visibility","http://passageweather.com/maps/oceania/visibility/003.png","0","","0

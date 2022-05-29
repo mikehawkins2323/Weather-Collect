@@ -85,22 +85,20 @@ namespace Weather_Collect.Properties {
                 return ResourceManager.GetString("Config_Gateway", resourceCulture);
             }
         }
-
+        
         /// <summary>
-        ///   Looks up a localized string similar to MSLP&quot;,&quot;&quot;,&quot;Current&quot;,&quot;http://www.bom.gov.au/fwo/IDD80100.png&quot;,&quot;0&quot;,&quot;http://www.bom.gov.au/fwo/IDD80100.pdf&quot;,&quot;0
-        ///MSLP&quot;,&quot;Precip&quot;,&quot;+03&quot;,&quot;http://www.bom.gov.au/charts_data/IDY20101/current/mslp-precip/IDY20101.mslp-precip.006.png&quot;,&quot;0&quot;,&quot;&quot;,&quot;0
-        ///MSLP&quot;,&quot;Precip&quot;,&quot;+09&quot;,&quot;http://www.bom.gov.au/charts_data/IDY20101/current/mslp-precip/IDY20101.mslp-precip.012.png&quot;,&quot;0&quot;,&quot;&quot;,&quot;0
-        ///MSLP&quot;,&quot;Precip&quot;,&quot;+15&quot;,&quot;http://www.bom.gov.au/charts_data/IDY20101/current/mslp-precip/IDY20101.mslp-precip.018.png&quot;,&quot;0&quot;,&quot;&quot;,&quot;0
-        ///MSLP&quot;,&quot;Precip&quot;,&quot;+21&quot;,&quot;htt [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to MSLP&quot;,&quot;&quot;,&quot;Current&quot;,&quot;http://www.bom.gov.au/fwo/IDY00050.png&quot;,&quot;0&quot;,&quot;http://www.bom.gov.au/fwo/IDY00050.pdf&quot;,&quot;0
+        ///MSLP&quot;,&quot;&quot;,&quot;Forecast&quot;,&quot;http://www.bom.gov.au/fwo/IDG00074.gif&quot;,&quot;0&quot;,&quot;http://www.bom.gov.au/fwo/IDG00074.pdf&quot;,&quot;0
+        ///MSLP&quot;,&quot;Precip&quot;,&quot;+03&quot;,&quot;http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.003.png&quot;,&quot;0&quot;,&quot;&quot;,&quot;0
+        ///MSLP&quot;,&quot;Precip&quot;,&quot;+09&quot;,&quot;http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.009.png&quot;,&quot;0&quot;,&quot;&quot;,&quot;0
+        ///MSLP&quot;,&quot;Precip&quot;,&quot;+15&quot;,&quot;http://www.bom.gov. [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string Config_Hawaii_Transit
-        {
-            get
-            {
+        internal static string Config_Hawaii_Transit {
+            get {
                 return ResourceManager.GetString("Config_Hawaii_Transit", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   Looks up a localized string similar to MSLP&quot;,&quot;&quot;,&quot;Current&quot;,&quot;http://www.bom.gov.au/fwo/IDY00050.png&quot;,&quot;0&quot;,&quot;http://www.bom.gov.au/fwo/IDY00050.pdf&quot;,&quot;0
         ///MSLP&quot;,&quot;Precip&quot;,&quot;+03&quot;,&quot;http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.003.png&quot;,&quot;0&quot;,&quot;&quot;,&quot;0
@@ -192,11 +190,11 @@ namespace Weather_Collect.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to MSLP&quot;,&quot;Precip&quot;,&quot;+06&quot;,&quot;http://www.bom.gov.au/charts_data/IDY20000/current/mslp-precip/IDY20000.mslp-precip.006.png&quot;,&quot;0&quot;,&quot;&quot;,&quot;0
+        ///   Looks up a localized string similar to MSLP&quot;,&quot;Pacific&quot;,&quot;+00&quot;,&quot;https://ocean.weather.gov/P_sfc_full_ocean_color.png&quot;,&quot;0&quot;,&quot;&quot;,&quot;0
+        ///MSLP&quot;,&quot;Pacific&quot;,&quot;+48&quot;,&quot;https://ocean.weather.gov/shtml/P_48hrsfc.gif&quot;,&quot;0&quot;,&quot;&quot;,&quot;0
+        ///MSLP&quot;,&quot;Precip&quot;,&quot;+06&quot;,&quot;http://www.bom.gov.au/charts_data/IDY20000/current/mslp-precip/IDY20000.mslp-precip.006.png&quot;,&quot;0&quot;,&quot;&quot;,&quot;0
         ///MSLP&quot;,&quot;Precip&quot;,&quot;+12&quot;,&quot;http://www.bom.gov.au/charts_data/IDY20000/current/mslp-precip/IDY20000.mslp-precip.012.png&quot;,&quot;0&quot;,&quot;&quot;,&quot;0
-        ///MSLP&quot;,&quot;Precip&quot;,&quot;+18&quot;,&quot;http://www.bom.gov.au/charts_data/IDY20000/current/mslp-precip/IDY20000.mslp-precip.018.png&quot;,&quot;0&quot;,&quot;&quot;,&quot;0
-        ///MSLP&quot;,&quot;Precip&quot;,&quot;+24&quot;,&quot;http://www.bom.gov.au/charts_data/IDY20000/current/mslp-precip/IDY20000.mslp-precip.024.png&quot;,&quot;0&quot;,&quot;&quot;,&quot;0
-        ///Satellit [rest of string was truncated]&quot;;.
+        ///MSLP&quot;,&quot;Precip&quot;,&quot;+18&quot;,&quot;http://www.bom.gov.au/charts_data/IDY20000/current/mslp-precip/IDY200 [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Config_RIMPAC_Ex {
             get {
