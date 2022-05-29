@@ -3,6 +3,8 @@ MSLP","Precip","+03","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-pr
 MSLP","Precip","+09","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.009.png","0","","0
 MSLP","Precip","+15","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.015.png","0","","0
 MSLP","Precip","+21","http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.021.png","0","","0
+MSLP","Pacific","+00","https://ocean.weather.gov/P_sfc_full_ocean_color.png","0","","0
+MSLP","Pacific","+48","https://ocean.weather.gov/shtml/P_48hrsfc.gif","0","","0
 MSLP","Japan","Current","http://www.jma.go.jp/jp/g3/images/asia/pdf/asas.pdf","0","http://www.jma.go.jp/jp/g3/images/asia/pdf/asas.pdf","0
 Satellite","IR","Disk","http://www.jma.go.jp/en/gms/imgs/6/infrared/0/|||TIME:yyyyMMddhhmm:30|||-00.png","0","","0
 Satellite","Geocolour","Disk","http://rammb.cira.colostate.edu/ramsdis/online/images/himawari-8/full_disk_ahi_true_color/full_disk_ahi_true_color_|||TIME:yyyyMMddhhmmss:30|||.jpg","0","","0

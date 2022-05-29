@@ -19,7 +19,7 @@ namespace Weather_Collect.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -74,11 +74,11 @@ namespace Weather_Collect.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to MSLP&quot;,&quot;Precip&quot;,&quot;+03&quot;,&quot;http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.003.png&quot;,&quot;0&quot;,&quot;&quot;,&quot;0
-        ///MSLP&quot;,&quot;Precip&quot;,&quot;+09&quot;,&quot;http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.009.png&quot;,&quot;0&quot;,&quot;&quot;,&quot;0
-        ///MSLP&quot;,&quot;Precip&quot;,&quot;+15&quot;,&quot;http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.015.png&quot;,&quot;0&quot;,&quot;&quot;,&quot;0
-        ///MSLP&quot;,&quot;Precip&quot;,&quot;+21&quot;,&quot;http://www.bom.gov.au/charts_data/IDY20300/current/mslp-precip/IDY20300.mslp-precip.021.png&quot;,&quot;0&quot;,&quot;&quot;,&quot;0
-        ///Satellit [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to MSLP&quot;,&quot;&quot;,&quot;Current&quot;,&quot;http://www.bom.gov.au/fwo/IDD80100.png&quot;,&quot;0&quot;,&quot;http://www.bom.gov.au/fwo/IDD80100.pdf&quot;,&quot;0
+        ///MSLP&quot;,&quot;Precip&quot;,&quot;+03&quot;,&quot;http://www.bom.gov.au/charts_data/IDY20101/current/mslp-precip/IDY20101.mslp-precip.006.png&quot;,&quot;0&quot;,&quot;&quot;,&quot;0
+        ///MSLP&quot;,&quot;Precip&quot;,&quot;+09&quot;,&quot;http://www.bom.gov.au/charts_data/IDY20101/current/mslp-precip/IDY20101.mslp-precip.012.png&quot;,&quot;0&quot;,&quot;&quot;,&quot;0
+        ///MSLP&quot;,&quot;Precip&quot;,&quot;+15&quot;,&quot;http://www.bom.gov.au/charts_data/IDY20101/current/mslp-precip/IDY20101.mslp-precip.018.png&quot;,&quot;0&quot;,&quot;&quot;,&quot;0
+        ///MSLP&quot;,&quot;Precip&quot;,&quot;+21&quot;,&quot;htt [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Config_Gateway {
             get {

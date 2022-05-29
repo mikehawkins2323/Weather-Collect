@@ -1,12 +1,17 @@
+MSLP","Pacific","+00","https://ocean.weather.gov/P_sfc_full_ocean_color.png","0","","0
+MSLP","Pacific","+48","https://ocean.weather.gov/shtml/P_48hrsfc.gif","0","","0
 MSLP","Precip","+06","http://www.bom.gov.au/charts_data/IDY20000/current/mslp-precip/IDY20000.mslp-precip.006.png","0","","0
 MSLP","Precip","+12","http://www.bom.gov.au/charts_data/IDY20000/current/mslp-precip/IDY20000.mslp-precip.012.png","0","","0
 MSLP","Precip","+18","http://www.bom.gov.au/charts_data/IDY20000/current/mslp-precip/IDY20000.mslp-precip.018.png","0","","0
 MSLP","Precip","+24","http://www.bom.gov.au/charts_data/IDY20000/current/mslp-precip/IDY20000.mslp-precip.024.png","0","","0
-Satellite","IR","Hawaii","http://www.goes.noaa.gov/GIFS/HAIR.JPG","0","","0
+Satellite","IR","Hawaii","https://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/hawaii_geocolor.jpg","0","","0
 Satellite","Geocolour","Disk","http://rammb.cira.colostate.edu/ramsdis/online/images/himawari-8/full_disk_ahi_true_color/full_disk_ahi_true_color_|||TIME:yyyyMMddhhmmss:30|||.jpg","0","","0
+Satellite","IR","Area F","https://aviationweather.gov/data/obs/sat/intl/sat_irbw_f.jpg","0","","0
+Satellite","IR","Area F","https://aviationweather.gov/data/obs/sat/intl/sat_irnws_f.jpg","0","","0
 SIGMET","Text","Central/East North Pacific","https://aviationweather.gov/data/iffdp/6421.pdf","0","","0
 SIGMET","Text","West South Pacific","https://aviationweather.gov/data/iffdp/6423.pdf","0","","0
 SIGMET","Cyclone Warning","World","http://www.metoc.navy.mil/jtwc/products/abpwsair.jpg","0","","0
+SIGMET","VA","Washington","https://aviationweather.gov/data/iffdp/6885.pdf","0","","0
 Sig Wx","(FL250 - 630)","00Z","http://www.bom.gov.au/difacs/aviation/IDX0538.gif","0","http://www.bom.gov.au/difacs/aviation/IDX0538.pdf","0
 Sig Wx","(FL250 - 630)","06Z","http://www.bom.gov.au/difacs/aviation/IDX0539.gif","0","http://www.bom.gov.au/difacs/aviation/IDX0539.pdf","0
 Sig Wx","(FL250 - 630)","12Z","http://www.bom.gov.au/difacs/aviation/IDX0540.gif","0","http://www.bom.gov.au/difacs/aviation/IDX0540.pdf","0
@@ -27,14 +32,15 @@ Wind + Temp","FL300","00Z","https://aviationweather.gov/data/iffdp/2272.gif","0"
 Wind + Temp","FL300","06Z","https://aviationweather.gov/data/iffdp/2242.gif","0","https://aviationweather.gov/data/iffdp/2242.pdf","90
 Wind + Temp","FL300","12Z","https://aviationweather.gov/data/iffdp/2252.gif","0","https://aviationweather.gov/data/iffdp/2252.pdf","90
 Wind + Temp","FL300","18Z","https://aviationweather.gov/data/iffdp/2262.gif","0","https://aviationweather.gov/data/iffdp/2262.pdf","90
-Wind + Temp","FL340","00Z","https://aviationweather.gov/data/iffdp/2783.gif","0","https://aviationweather.gov/data/iffdp/2783.pdf","90
-Wind + Temp","FL340","06Z","https://aviationweather.gov/data/iffdp/2793.gif","0","https://aviationweather.gov/data/iffdp/2793.pdf","90
-Wind + Temp","FL340","12Z","https://aviationweather.gov/data/iffdp/2803.gif","0","https://aviationweather.gov/data/iffdp/2803.pdf","90
-Wind + Temp","FL340","18Z","https://aviationweather.gov/data/iffdp/2813.gif","0","https://aviationweather.gov/data/iffdp/2813.pdf","90
-Wind + Temp","FL390","00Z","https://aviationweather.gov/data/iffdp/2782.gif","0","https://aviationweather.gov/data/iffdp/2782.pdf","90
-Wind + Temp","FL390","06Z","https://aviationweather.gov/data/iffdp/2792.gif","0","https://aviationweather.gov/data/iffdp/2792.pdf","90
-Wind + Temp","FL390","12Z","https://aviationweather.gov/data/iffdp/2802.gif","0","https://aviationweather.gov/data/iffdp/2802.pdf","90
-Wind + Temp","FL390","18Z","https://aviationweather.gov/data/iffdp/2812.gif","0","https://aviationweather.gov/data/iffdp/2812.pdf","90
+Wind + Temp","FL340","00Z","https://aviationweather.gov/data/iffdp/2271.gif","0","https://aviationweather.gov/data/iffdp/2771.pdf","90
+Wind + Temp","FL340","06Z","https://aviationweather.gov/data/iffdp/2241.gif","0","https://aviationweather.gov/data/iffdp/2741.pdf","90
+Wind + Temp","FL340","12Z","https://aviationweather.gov/data/iffdp/2251.gif","0","https://aviationweather.gov/data/iffdp/2851.pdf","90
+Wind + Temp","FL340","18Z","https://aviationweather.gov/data/iffdp/2261.gif","0","https://aviationweather.gov/data/iffdp/2861.pdf","90
+Wind + Temp","FL390","00Z","https://aviationweather.gov/data/iffdp/2270.gif","0","https://aviationweather.gov/data/iffdp/2770.pdf","90
+Wind + Temp","FL390","06Z","https://aviationweather.gov/data/iffdp/2240.gif","0","https://aviationweather.gov/data/iffdp/2740.pdf","90
+Wind + Temp","FL390","12Z","https://aviationweather.gov/data/iffdp/2250.gif","0","https://aviationweather.gov/data/iffdp/2850.pdf","90
+Wind + Temp","FL390","18Z","https://aviationweather.gov/data/iffdp/2260.gif","0","https://aviationweather.gov/data/iffdp/2860.pdf","90
+ONSTA Weather","Pacific","Waves","https://ocean.weather.gov/shtml/pjba99.gif","0","","0
 ONSTA Weather","Hawaii","Wind","http://passageweather.com/maps/hawaii/wind/003.png","0","","0
 ONSTA Weather","Hawaii","Waves","http://passageweather.com/maps/hawaii/waves/003.png","0","","0
 ONSTA Weather","Hawaii","Visibility","http://passageweather.com/maps/hawaii/visibility/003.png","0","","0

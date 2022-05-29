@@ -117,7 +117,7 @@ namespace Weather_Collect
                     intPagesAdded++;
                 }
                 //add outline
-                PdfOutline.PdfOutlineCollection outlines = doc.Outlines;
+                PdfOutlineCollection outlines = doc.Outlines;
                 //check whether new group level is required and add sub group outline if required
                 if (currentChart.Group != previousChart.Group)
                 {
